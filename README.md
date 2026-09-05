@@ -28,6 +28,7 @@ I turn raw, messy data into tested, decision-ready data products — from extrac
 | Project | What it proves | Stack |
 |---|---|---|
 | 📈 [PSX Analytics — Data Warehouse](https://github.com/Bilalkhank10/psx-data-warehouse) | End-to-end ELT for Pakistan's stock exchange: fault-tolerant extraction, dbt marts, **SCD2 snapshots**, **41 data tests**, freshness monitoring, daily CI | Python · dbt · DuckDB · Streamlit |
+| 📡 [Data Job Market Radar](https://github.com/Bilalkhank10/data-job-market-radar) | Weekly-scraped job postings → dbt marts for skill demand, salary bands & posting lifecycles — my job hunt as a dataset | Python · dbt · DuckDB · Streamlit |
 | 🛠 [GigCraft — Market Research Studio](https://github.com/Bilalkhank10/my-data-analysis-project) | Web-scale data collection → analytics: crawls Fiverr niches, computes market intelligence, drafts data-backed gig packages | TypeScript · FastAPI · SQLite · Gemini |
 | 🌐 [Portfolio website](https://bilalkhank10.github.io) | This profile, as a site — projects, skills, and live links in one page | HTML · CSS · GitHub Pages |
 
