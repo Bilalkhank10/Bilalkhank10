@@ -1,54 +1,34 @@
-![banner](banner.png)
+<img src="banner.png" alt="Data analytics and engineering banner" width="100%" />
 
-<h1 align="center">Hi, I'm Umer Iqbal 👋</h1>
-<h3 align="center">Data Analyst & Analytics Engineer · Islamabad, Pakistan 🇵🇰</h3>
+# Hi, I'm Bilal Khan
 
-<p align="center">
-I turn raw, messy data into tested, decision-ready data products — from extraction pipelines to dbt models to dashboards people actually read.
-</p>
+**Data Analytics & Analytics Engineering · Pakistan**
 
----
+I use Python and SQL to clean messy data, answer business questions, and build reproducible analytics projects. My portfolio includes data-cleaning workflows, dbt models, interactive dashboards, and market-research tools.
 
-### 🧰 Analytics & Engineering Toolkit
+[View my portfolio](https://bilalkhank10.github.io/) · [Explore my repositories](https://github.com/Bilalkhank10?tab=repositories)
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-</p>
+## Featured projects
 
-### 🚀 Featured Projects
+| Project | What to explore | Tools |
+| --- | --- | --- |
+| [Retail Data Cleaning Pipeline](https://github.com/Bilalkhank10/retail-data-cleaning-pipeline) | Messy dates, currency fields, duplicates, missing values, a quality report, and business charts. Uses clearly labeled synthetic data. | Python, Pandas, NumPy, Matplotlib |
+| [PSX Data Warehouse](https://github.com/Bilalkhank10/psx-data-warehouse) | Stock-market ingestion, dimensional models, SCD2 snapshots, freshness checks, and a dashboard. Includes a synthetic offline mode. | Python, DuckDB, dbt, Streamlit |
+| [Data Job Market Radar](https://github.com/Bilalkhank10/data-job-market-radar) | Job-board API ingestion, skill classification, salary analysis, and snapshot-based reporting. | Python, DuckDB, dbt, Streamlit |
+| [PSL Analytics](https://github.com/Bilalkhank10/psl-analytics) | Ball-level cricket data, player and venue analysis, and an empirical chase-probability model. | Python, SQL, dbt, Plotly |
+| [GigCraft](https://github.com/Bilalkhank10/my-data-analysis-project) | Public gig sampling, keyword analysis, and optional AI-assisted drafts, with data-source and fallback labeling. | Python, FastAPI, TypeScript, SQLite |
 
-| Project | What it proves | Stack |
-|---|---|---|
-| 📈 [PSX Analytics — Data Warehouse](https://github.com/Bilalkhank10/psx-data-warehouse) | End-to-end ELT for Pakistan's stock exchange: fault-tolerant extraction, dbt marts, **SCD2 snapshots**, **41 data tests**, freshness monitoring, daily CI | Python · dbt · DuckDB · Streamlit |
-| 📡 [Data Job Market Radar](https://github.com/Bilalkhank10/data-job-market-radar) | Weekly-scraped job postings → dbt marts for skill demand, salary bands & posting lifecycles — my job hunt as a dataset | Python · dbt · DuckDB · Streamlit |
-| 🏏 [PSL Analytics](https://github.com/Bilalkhank10/psl-analytics) | Every ball of every PSL match (357 matches · 83.8k deliveries) — career stats, venue maps, empirical win-probability model | Python · dbt · DuckDB · Streamlit |
-| 🛠 [GigCraft — Market Research Studio](https://github.com/Bilalkhank10/my-data-analysis-project) | Web-scale data collection → analytics: crawls Fiverr niches, computes market intelligence, drafts data-backed gig packages | TypeScript · FastAPI · SQLite · Gemini |
-| 🌐 [Portfolio website](https://bilalkhank10.github.io) | This profile, as a site — projects, skills, and live links in one page | HTML · CSS · GitHub Pages |
+## Skills and current focus
 
-### 📌 Currently sharpening
-- Dimensional modeling & the **dbt Analytics Engineering certification** material
-- **Power BI DAX** for executive-grade measures
-- Semantic layers & metrics stores
+- **Analysis:** Python, Pandas, NumPy, Excel, data cleaning, aggregation, and exploratory analysis.
+- **Visualization:** Matplotlib, Seaborn, and project dashboards with Streamlit and Plotly.
+- **SQL practice:** PostgreSQL querying, joins, aggregations, and conditional logic.
+- **Analytics engineering portfolio:** DuckDB, dbt models, data-quality tests, snapshots, and GitHub Actions.
 
-### 📊 GitHub at a glance
+I'm strengthening PostgreSQL, dimensional modeling, and reliable analytics workflows as I work toward Data Analyst and Analytics Engineer opportunities.
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bilalkhank10&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=Bilalkhank10&theme=github-dark-blue&hide_border=true"/>
-</p>
+## Work with me
 
----
+Open to junior data roles and freelance data-cleaning, analysis, and reporting projects. Explore the linked repositories for source code, setup instructions, and project limitations.
 
-<p align="center">
-  💼 Open to <b>Data Analyst</b> & <b>Analytics Engineer</b> roles ·
-  📬 Reach me via <a href="https://github.com/Bilalkhank10">GitHub</a> ·
-  🌍 <a href="https://bilalkhank10.github.io">bilalkhank10.github.io</a>
-</p>
+For a project discussion, [open a profile discussion issue](https://github.com/Bilalkhank10/Bilalkhank10/issues/new) with a short, non-confidential brief.
